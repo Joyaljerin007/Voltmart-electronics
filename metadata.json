@@ -1,0 +1,6 @@
+{
+  "name": "VoltMart Electronics Catalog & E-Commerce",
+  "description": "Full-stack electronics catalog and e-commerce platform with dynamic specs filtering, multi-product comparison, price tracking, reviews, order management, and admin dashboard.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
